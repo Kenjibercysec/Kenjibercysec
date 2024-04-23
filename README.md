@@ -1,4 +1,4 @@
-### Olá! Este sou eu:
+### Olá! Aqui está um pouco sobre mim:
 
 <div>
   <a href="https://github.com/Kenjibercysec">
