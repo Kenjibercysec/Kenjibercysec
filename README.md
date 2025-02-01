@@ -1,22 +1,45 @@
-### Olá! Aqui está um pouco sobre mim:
+<h1 align="center">👾 Welcome to Kenji's GitHub! 🚀</h1>
 
-<div>
-  <a href="https://github.com/Kenjibercysec">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kenjibercysec&show_icons=&theme=omni&include_all_commits=true&count_private=true"/>
-    
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenjibercysec&layout=compact&langs_count=7&theme=omni"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-image.gif" width="400px">
+  <br>
+  <b>Backend Developer | Cybersecurity Enthusiast | Open-Source Contributor</b>
 </div>
 
-### Top repositórios:
+---
 
-<a href="https://github.com/Kenjibercysec/Hacakthon_SantoDigital.2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenjibercysec&repo=Hacakthon_SantoDigital.2023&theme=omni" />
-</a>
+## 🧑‍💻 About Me
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Linne-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Linne-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Linne-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Linne-SQL" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Linne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+- 🎯 **Focused on:** Backend Development & Cybersecurity  
+- ⚡ **Passionate about:** Securing applications, network security, and building scalable backend solutions  
+- 📚 **Currently learning:** Advanced cryptography & system programming  
+- 🛠️ **Hacking & security tools:** Wireshark, Burp Suite, Metasploit, nmap, Linux hardening  
+- 🖥️ **Programming:** Python, C, JavaScript (Node.js)  
+- 🏴‍☠️ **Hacker mindset:** Ethical hacking, penetration testing, and security best practices  
+
+---
+- 📫 Connect with Me
+- 📧 Email: [your-email@example.com]
+- 🌍 Portfolio: [your-website.com]
+- 🐦 Twitter: @Kenji_theDev
+- 💼 LinkedIn: Silas kenji
+
+## 🔥 Tech Stack
+
+```javascript
+const Kenji = {
+  pronouns: "He" | "Him",
+  code: ["Python", "C", "JavaScript"],
+  tools: ["Node.js", "Express", "Docker", "Git", "Wireshark"],
+  cybersecurity: ["Penetration Testing", "Network Security", "Linux Hardening"],
+  embeddedSystems: ["Microcontrollers", "IoT", "TCP/IP Communication"],
+  architecture: ["REST APIs", "Microservices", "Networking"],
+  techCommunities: {
+    contributor: "Open-Source Projects",
+    mentor: "Beginner Developers",
+    speaker: "Tech Talks & Meetups"
+  },
+  challenge: "Currently improving my backend skills with Node.js and exploring system programming with C",
+  aboutMe: `Passionate about backend development and cybersecurity, I enjoy building efficient and secure applications. 
+  My projects range from web applications to IoT integrations, always focusing on performance, security, and best practices.`
+};
