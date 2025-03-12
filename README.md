@@ -14,13 +14,13 @@
 - ⚡ **Passionate about:** Securing applications, network security, and building scalable backend solutions  
 - 📚 **Currently learning:** Advanced cryptography & system programming  
 - 🛠️ **Hacking & security tools:** Wireshark, Burp Suite, Metasploit, nmap, Linux hardening  
-- 🖥️ **Programming:** Python, C, JavaScript (Node.js)  
+- 🖥️ **Programming:** Python, C, JavaScript (Node.js), TypeScript
 - 🏴‍☠️ **Hacker mindset:** Ethical hacking, penetration testing, and security best practices  
 
 ---
 - 📫 Connect with Me
-- 📧 Email: [your-email@example.com]
-- 🌍 Portfolio: [your-website.com]
+- 📧 Email: [silasotsuka@gmail.com]
+- 🌍 Portfolio: [Soon]
 - 🐦 Twitter: @Kenji_theDev
 - 💼 LinkedIn: Silas kenji
 
