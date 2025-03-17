@@ -30,7 +30,7 @@
 const Kenji = {
   pronouns: "He" | "Him",
   code: ["Python", "C", "JavaScript"],
-  tools: ["Node.js", "Express", "Docker", "Git", "Wireshark"],
+  tools: ["Node.js", "Express", "Django", "FastAPI", "Docker", "Git", "Wireshark"],
   cybersecurity: ["Penetration Testing", "Network Security", "Linux Hardening"],
   embeddedSystems: ["Microcontrollers", "IoT", "TCP/IP Communication"],
   architecture: ["REST APIs", "Microservices", "Networking"],
