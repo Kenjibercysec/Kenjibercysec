@@ -20,7 +20,7 @@
 ---
 - 📫 Connect with Me
 - 📧 Email: [silasotsuka@gmail.com]
-- 🌍 Portfolio: [Soon]
+- 🌍 Portfolio: [https://kenjinho.vercel.app/]
 - 🐦 Twitter: @Kenji_theDev
 - 💼 LinkedIn: Silas kenji
 
