@@ -21,7 +21,7 @@
 - 📫 Connect with Me
 - 📧 Email: [silasotsuka@gmail.com]
 - 🌍 Portfolio: [https://kenjiportfolio-nine.vercel.app/]
-- 🐦 Twitter: @Kenji_theDev
+- 🐦 Twitter: @KenjiXsS_
 - 💼 LinkedIn: Silas kenji
 
 ## 🔥 Tech Stack
